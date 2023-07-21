@@ -3,8 +3,7 @@
 
 Done by: **Kuzivakwashe Mavera**
 
-**EmployeeApp** is an employee management web app that allows one to perform CRUD operations on employee and department entities.
-
+**EmployeeApp** is web application which serves as a user-friendly platform for managing employee-related information within an organization. The app facilitates CRUD operations (Create, Read, Update, Delete) for both departments and employees, providing seamless data management capabilities.
 
 ## License
 
